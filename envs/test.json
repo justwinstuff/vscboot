@@ -1,11 +1,9 @@
 {
   "name": "test",
   "extensions": [
-    "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint"
+    "tauri-apps.tauri-vscode"
   ],
   "settings": {
-    "editor.fontSize": 14,
-    "workbench.colorTheme": "Dracula"
+    "editor.fontSize": 24
   }
 }
