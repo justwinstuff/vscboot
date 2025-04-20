@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "extensions": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ],
+  "settings": {
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Dracula"
+  }
+}
